@@ -1,0 +1,21 @@
+{
+  "name": "nsmav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nsmav.js",
+  "dependencies": {
+    "api-ai-recognizer": "^1.1.1",
+    "apiai": "^4.0.3",
+    "botbuilder": "^3.12.0",
+    "dtrace-provider": "^0.8.5",
+    "google-search-scraper": "0.0.3",
+    "recastai": "^3.6.0",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

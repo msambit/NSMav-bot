@@ -1,0 +1,32 @@
+[{
+        "name": "PHYSICS",
+        "subtitle": "All about....",
+        "text": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ1MUgl7rNhtDGc29TQpjBNN22UiiNtkxfa5UTV-F8xdCUug5p",
+        "url": ""
+    },
+
+    {
+        "name": "CHEMISTRY",
+        "subtitle": "All about....",
+        "text": "",
+        "image": "http://buzz2fone.com/wp-content/uploads/physics.jpg",
+        "url": ""
+    },
+
+    {
+        "name": "BIOLOGY",
+        "subtitle": "All about....",
+        "text": "",
+        "image": "https://ibin.co/3n3Dcmubt9pY.jpg",
+        "url": ""
+    },
+
+    {
+        "name": "AGRICULTURE",
+        "subtitle": "All about....",
+        "text": "",
+        "image": "http://www.tatachemicals.com/upload/images/masthead/Agriculture.jpg",
+        "url": ""
+    }
+]
